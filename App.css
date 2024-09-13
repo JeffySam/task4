@@ -1,0 +1,42 @@
+
+.App {
+  text-align: center;
+}
+
+form {
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+
+button {
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+  width: 100%;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
